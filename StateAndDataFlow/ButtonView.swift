@@ -1,9 +1,4 @@
-//
-//  ButtonView.swift
-//  StateAndDataFlow
-//
-//  Created by Леся on 04.08.2021.
-//
+
 
 import SwiftUI
 
